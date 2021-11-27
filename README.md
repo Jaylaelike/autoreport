@@ -3,6 +3,14 @@ Generate auto diary report.
 How to use.
 
 
+![auto](https://user-images.githubusercontent.com/20137401/143672692-1d48afbb-d74e-46f2-acf1-9cbede4e20ef.JPG)
+
+
+
+
+
+
+
 1.รันโปรแกรม autoreport.exe ขึ้นมา 
 
 
