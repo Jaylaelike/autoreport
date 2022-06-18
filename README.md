@@ -3,11 +3,8 @@ Generate auto diary report.
 How to use.
 
 
-![auto](https://user-images.githubusercontent.com/20137401/143672692-1d48afbb-d74e-46f2-acf1-9cbede4e20ef.JPG)
 
-
-
-
+![Auto report2](https://user-images.githubusercontent.com/20137401/174422911-a2d7e194-ab18-445c-9d12-dc50b8fe2a74.png)
 
 
 
